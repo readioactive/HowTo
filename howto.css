@@ -1,0 +1,51 @@
+.outer-box {
+        background-color:grey;
+        margin:30px 10px;
+        padding:20px;
+        min-height:300px;
+      }
+      .name {
+        color:white;
+        font-family:tahoma;
+        margin-left:20px;
+      }
+      .picture {
+        margin-left:20px;
+      float:left;
+      margin-right:20px;
+      border:2px solid black;
+      }
+      .bio {
+        font-family:tahoma;
+        padding-left:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+      }
+      h1 {
+        font-family: 'Cabin Sketch', cursive;
+        font-size: 50px;
+      }
+      h2 {
+        font-family: 'Poiret One', cursive;
+        font-size:25px;
+        color:#3cb371;
+      }
+      h3 {
+        font-family: 'Audiowide', cursive;
+        font-size:20px;
+        color:#ee82ee;
+      } 
+      body {
+        font-family: 'Noto Serif', serif;
+        font-size:13px;
+      }
+      div {
+        margin:20px;
+      }
+      .squarebullet {
+        list-style-type:square;
+      }
+    #ad {
+      float:right;
+      margin-left:20px;
+      }
